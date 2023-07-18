@@ -1,0 +1,46 @@
+BODY {
+    margin: 20px 0px 20px 0px;
+    background-color: #e7e1e5;
+    font-family: arial;
+    font-size: 12pt;
+    }
+    
+  .page{
+    display: block;
+    width: 1000px;
+    min-height: 800px;
+    overflow: auto;
+    margin: 0px auto 0px auto;
+    box-sizing: border-box;
+    }
+    
+  .pageHeader{
+    background-color: #FFC9FF;
+    float: left;
+    clear: none;
+    min-height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    }
+    
+  .pageContent{
+    background-color: #FFFFFF;
+    float: left;
+    clear: none;
+    min-height: 600px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    }
+    
+  .pageFooter{
+    background-color: #CB87F5;
+    float: left;
+    clear: none;
+    min-height: 50px;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    }
